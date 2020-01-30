@@ -2,7 +2,7 @@
 
 # Response to readings
 
-1. [blumenstock question] (http://miao.github.io/workshop/blumenstock/) (Jan. 30)
+1. [Blumenstock question] (https://miaaao.github.io/miao/) (Jan. 30)
 
 # Projects
 
