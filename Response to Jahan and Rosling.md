@@ -1,6 +1,6 @@
 Miao Liu
 
-Feb 4
+Feb 4, 2020
 
 In his report, Selim Jahan states that human development is a process of enlarging human choices. In order to enhance the choices, there are two sides of it: the capabilities of human beings that have to be enhanced and the opportunities of human beings to use those capabilities that have to be improved. Human development can be represented by an equation. On the left side are the human capabilities. On the right hand side are the opportunities for applying our capabilities. It is the balance between the two, which helps maximizing human development. The world had been preoccupied with opulence. The paradigm of economic growth seemed to be the end of human development. Fortunately, the fist human development report in 1990 shifted the focus of human development. For the first time, people were put at the center of development, at the center of policy debates, policy dialogues, policy discourses, and at the center of extending the frontier of our understanding of people-centered development.
 
