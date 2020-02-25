@@ -84,7 +84,7 @@ Annotations
 
    
 
-5. Computers, Environment and Urban Systems, ISSN: 0198-9715, Vol: 33, Issue: 3, Page: 179-188
+5. Taubenböck, H., Wegmann, M., Roth, A., Mehl, H., & Dech, S. (2008, October 29). Urbanization in India – Spatiotemporal analysis using remote sensing data. Retrieved from https://www.sciencedirect.com/science/article/pii/S0198971508000604
 
    
 
