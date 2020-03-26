@@ -8,6 +8,8 @@
 
 [Barder](https://github.com/miaaao/miao/blob/master/Development%20and%20Complexity.MD)
 
+[Anderson](https://github.com/miaaao/miao/blob/master/Anderson%20and%20Kitchin.md)
+
 # Projects
 
 # Assignments
