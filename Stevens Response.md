@@ -8,7 +8,7 @@ A machine learning algorithm performs like a statistical model. It analyzes data
 
 3. In the reading, the authors use a number of geospatial covariates as predictors in their machine learning method. What were these geospatial covariates and approximately how big of a data set did they represent (in general terms)? What is the significance of big data in the estimation of machine learning methods for inferring the correlates and drivers of human population distributions?
 
-The Random Forest algorithm includes several covariate data sets. Some of the covariates are night-time lights, topography, land cover, and climatic information. The reading provides a specific description on calculating how big of a data set each covariate represents. 
+The Random Forest algorithm includes several covariate data sets. Some of the covariates are night-time lights, topography, land cover, and climatic information. The reading provides a specific description on calculating how big of a data set each covariate represents. Big data works as the foundation in the estimation of machine learning methods. A large amount of input data allows ensemble methods to grow more trees in the "forest," producing accurate predictions.
 
 4. The authors’ results present a remarkable improvement over previous geospatial descriptions at very high resolution, of the distribution of the human population. Within the context of human development in LMICs, what is the significance of having a highly accurate description of where each person is located across planet earth?
 
