@@ -2,13 +2,15 @@
 
 # Response to readings
 
-[Blumenstock](https://github.com/miaaao/miao/blob/master/Blumenstock.md)
+1. [Blumenstock](https://github.com/miaaao/miao/blob/master/Blumenstock.md)
 
-[Jahan & Rosling](https://github.com/miaaao/miao/blob/master/Response%20to%20Jahan%20and%20Rosling.md)
+2. [Jahan & Rosling](https://github.com/miaaao/miao/blob/master/Response%20to%20Jahan%20and%20Rosling.md)
 
-[Barder](https://github.com/miaaao/miao/blob/master/Development%20and%20Complexity.MD)
+3. [Barder](https://github.com/miaaao/miao/blob/master/Development%20and%20Complexity.MD)
 
-[Anderson](https://github.com/miaaao/miao/blob/master/Anderson%20and%20Kitchin.md)
+4. [Anderson](https://github.com/miaaao/miao/blob/master/Anderson%20and%20Kitchin.md)
+
+5. [Stevens](https://github.com/miaaao/miao/blob/master/Stevens%20Response.md)
 
 # Projects
 
