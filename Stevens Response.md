@@ -4,11 +4,11 @@ To generate high resolution data on human population distributions, the author p
 
 2. The random forest method used by the authors is a machine learning algorithm (ensemble method). In general terms, what is a machine learning algorithm? Within the context of this study what distinguishes a data science, machine learning method (such as random forest) from previous classical statistical approaches to describing and analyzing phenomenon and events?
 
-A machine learning algorithm performs like a statistical model. It analyzes data we provide and makes predictions within an acceptable range. Ensemble methods, such as Random Forest, are more accurate compared to classical statistical approaches because it combines multiple base models and selects the least biased one before generating the final outcome. 
+A machine learning algorithm performs like a statistical model. It analyzes data we provide and makes predictions within an acceptable range. Ensemble methods, such as the Random Forest approach, are more accurate compared to classical statistical approaches because it combines multiple base models and selects the least biased one before generating the final outcome. 
 
 3. In the reading, the authors use a number of geospatial covariates as predictors in their machine learning method. What were these geospatial covariates and approximately how big of a data set did they represent (in general terms)? What is the significance of big data in the estimation of machine learning methods for inferring the correlates and drivers of human population distributions?
 
-The Random Forest algorithm includes several covariate data sets. For example: night-time lights, topography, land cover, and climatic information.
+The Random Forest algorithm includes several covariate data sets. Some of the covariates are night-time lights, topography, land cover, and climatic information. The reading provides a specific description on calculating how big of a data set each covariate represents. 
 
 4. The authors’ results present a remarkable improvement over previous geospatial descriptions at very high resolution, of the distribution of the human population. Within the context of human development in LMICs, what is the significance of having a highly accurate description of where each person is located across planet earth?
 
