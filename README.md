@@ -6,6 +6,8 @@
 
 [Jahan & Rosling](https://github.com/miaaao/miao/blob/master/Response%20to%20Jahan%20and%20Rosling.md)
 
+[Barder](https://github.com/miaaao/miao/blob/master/Development%20and%20Complexity.MD)
+
 # Projects
 
 # Assignments
