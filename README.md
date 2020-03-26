@@ -2,6 +2,8 @@
 
 # Response to readings
 
+[Blumenstock](https://github.com/miaaao/miao/blob/master/Blumenstock.md)
+
 # Projects
 
 # Assignments
