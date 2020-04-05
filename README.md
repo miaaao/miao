@@ -20,4 +20,6 @@
 
 [Assignment 1](https://github.com/miaaao/miao/blob/master/Assignment1.md)
 
+[Assignment 2](https://github.com/miaaao/miao/blob/master/Assignment2.md)
+
 
