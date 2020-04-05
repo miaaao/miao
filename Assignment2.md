@@ -1,10 +1,10 @@
-Improved Prediction of the Categorization of Urbanization throughout India through Various Geospatial Data Science Methods and Models
+# Improved Prediction of the Categorization of Urbanization throughout India through Various Geospatial Data Science Methods and Models
 
 by Miao Liu
 
 April 4, 2020
 
-Introduction
+# Introduction
 
 The purpose of this research is to improve upon the use of the conventional definition and categorization of urbanization to generate a scientific and uniform standard to monitor the progress of urbanization and identify its problems by specifying, estimating, and validating an urban growth model as compared to the previous models. Central to achieving this research goal of classifying urban footprints will be increasing the resolution of India’s urban areas and population distribution from different datasets. I will achieve this goal through meeting the following objectives:
 
@@ -13,7 +13,7 @@ The purpose of this research is to improve upon the use of the conventional defi
 2.	Use survey data to estimate the population of different settlements for identifying areas of human activity across India
 This work will build on previous research by Joshi, Pranati Datta, Rana Hasan, Shahab Fazal, and H. Taubenböck and will incorporate new methods to implement an oriented process of urban planning as well as advances towards inferring the future of urban development. [1, 2, 3, 4, 5]
 
-Human Development Topic
+# Human Development Topic
 
 1.	Problem Statement: many of the most significant changes around the world are related to urbanization. In contrast to its big population, India is one of the least urban countries in the world. Although official report maintains a high percentage of urbanization, most Indians have difficulty enjoying high living standards. 
 
@@ -33,7 +33,7 @@ In his article, Sen introduces five distinct types of freedom: political freedom
 
 The five sources relate to several development goals. First, improving urban growth creates sustainable cities and communities. Its application can extend to reducing inequalities and reducing poverty, which relate to another two SDGs. A successful urban development provides people with a decent standard of living as well as a long healthy life. As the number of slums in India decreases, the gap between the wealthy and the poor is reduced. Additionally, urbanization has great impact on the environment and the society. The urban expansion of city is proved to affect air quality, the wildlife, the water cycle, etc. Generally, measuring urban growth is essential for city-planners, economists, and the government at large. 
 
-Human Development Process
+# Human Development Process
 
 1.	The studies on urbanization in India focus on different aspects of urban growth. Joshi’s articles assess urbanization patterns. Most of the studies focus on urbanization in relation to land use, transportation, etc. Nonetheless, it is important to have studies that address the urban sprawl problem since they can offer a level of stratification of the area for analyzing urban footprints [1]. Pranati Datta’s article aims to trace pattern of urbanization by using Indian Census data. It interprets the degree of urbanization in with the help of different tables and concludes India at an accelerating process of urbanization. Meanwhile, it resolves urban growth into three components and highlights the basic features of India’s urbanization. Lastly, it points out that faulty urban planning with poor economic base results in problems in the field of social infrastructure and leaves policy recommendations [2]. For Rana Hasan, the accelerating process of urbanization has no substantial impact on improving people’s income. The third source adds another factor that defines whether urbanization in India is successful or not. Without appropriate planning and infrastructure investment, Indian people can hardly enjoy agglomeration benefits [3]. Shahab Fazal measures the loss of farming land to urbanization to suggest the drawbacks of unplanned urbanization. Land transformation, one of the essential parts of urbanization, can impose serious loss of fertile soil [4]. According to H. Taubenböck, we can formulate an effective growth pattern by comparing existing mega cities, Mumbai, Delhi, and Kolkata. He adopts a time series of Landsat data that detects the urban footprints in the three cities [5].
 
@@ -47,7 +47,7 @@ a.	My human development process behaves as both a complex adaptive social and ec
 
 b.	The first three sources are on a national scale, but each one is conducted at a different level. The first source has a special focus on 12 large Indian cities. The second one includes all million-plus cities in India. The third one chooses the town-level. The last two are relevant case studies that are within the region. The study area of the fourth one is Saharanpur City. The fifth work picks three most representative cities for measurement.
 
-Geospatial Data Science Methods
+# Geospatial Data Science Methods
 
 1.	Geospatial data science methods
 
@@ -74,7 +74,7 @@ A.	Source 2 collects data from Census of India. It contains population of 23 cit
 B.	Source 2 have 8 variables out of 9 tables. Source 3 sets the town-level characteristics as explanatory variables. 
 C.	Both data are secondary sources. 
 
-Discussion
+# Discussion
 
 1.	So far, the paper covers the definition of urbanization, different stages of urbanization, India’s current urban growth, the significance of effective urban development, and potential harms of unsuccessful urban planning. It introduces the topic and how is the topic notworthy in the selected region. 
 
@@ -82,7 +82,7 @@ Discussion
 
 3.	My objective is to offer a clear definition of urbanization, including its different stage and classification and assess the progress and patterns of urbanization in different cities of India. Ultimately, I can propose a sustainable urban planning that maximizes resources and minimizes inequality. 
 
-References
+# References
 
 New sources:
 
