@@ -26,8 +26,7 @@ Hanson’s study differs from previous efforts in four respects. It first constr
 
 ![image 2](https://www.mdpi.com/remotesensing/remotesensing-08-00634/article_deploy/html/images/remotesensing-08-00634-ag-1024.png)
 
-Figure 2. A detailed examination of the classification of built-up areas (visualized in red) compared to raw satellite images in five regions in India (classifier: Random forest with 10 trees, input: Landsat to raw satellite images in five regions in India (classifier: Random forest with 10 trees, input: 8). Satellite images from DigitalGlobe. Includes copyrighted material of DigitalGlobe, Inc., All Rights Landsat 8). Satellite images from DigitalGlobe. Includes copyrighted material of DigitalGlobe, Inc., Reserved.
-All Rights Reserved.
+Figure 2. Classification of built-up areas (visualized in red) compared to raw satellite images in five regions in India (classifier: Random forest with 10 trees, input: Landsat 8). Satellite images from DigitalGlobe. Includes copyrighted material of DigitalGlobe, Inc. (Westminster, CO, Canada), All Rights Reserved.
 
 Results:
 
