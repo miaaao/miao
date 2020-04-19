@@ -52,6 +52,7 @@ NAACA model reports an accuracy rate of 90% in the present study. Moreover, the 
 ![image 4](https://ars.els-cdn.com/content/image/1-s2.0-S1110982317301540-gr7.jpg)
 
 Figure 4.Prediction accuracies of TCA, ACA and NNACA Models.
+
 **Discussion**
 
 Research Comparison: the two methods I select are complimentary in answering my research question on the progress of India’s urbanization. The first methodology measures current urban areas at a national level, specifying India’s population distribution and urban footprints. It encourages city planners to devise programs based on the urbanization process. The article answer my research question of understanding urban dynamic in India. It also mentions OpenStreetMap, which we’ve discussed in class.  Datasets for mapping urban areas are scarce compared to other ones, and the paper aims to fill this gap. Nevertheless, there is one limitation in the analysis that can be improved. The sampled examples mostly come from densely-populated regions, ignoring remote areas. The second methodology provides a good modeling tool in predicting urban growth as it handles the uncertainties and produces realistic outputs. This allows local governments to select the most sensible programs for urban development. However, some features of this methodology is subjective to yield inaccurate results. 
