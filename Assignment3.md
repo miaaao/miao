@@ -60,6 +60,6 @@ My research question is “what factors characterize urbanization in India and w
 
 **References**
 
-[1] Lakshmanan, G. (n.d.). Urban growth prediction using neural network coupled agents-based cellular automata model for Sriperumbudur taluk, Tamil Nadu, India. ScienceDirect.com | Science, health and medical journals, full text articles and books. https://www.sciencedirect.com/science/article/pii/S1110982317301540
+[1] Lakshmanan, G. (n.d.). Urban growth prediction using neural network coupled agents-based cellular automata model for Sriperumbudur taluk, Tamil Nadu, India. ScienceDirect.com. Science, health and medical journals, full text articles and books. https://www.sciencedirect.com/science/article/pii/S1110982317301540
 
 [2] Goldblatt, R., You, W., Hanson, G., & Khandelwal, A. (2016). Detecting the Boundaries of Urban Areas in India: A Dataset for Pixel-Based Image Classification in Google Earth Engine. Remote Sensing, 8(8), 634. MDPI AG. Retrieved from http://dx.doi.org/10.3390/rs8080634
