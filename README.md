@@ -22,4 +22,6 @@
 
 [Assignment 2](https://github.com/miaaao/miao/blob/master/Assignment2.md)
 
+[Assignment 3](https://github.com/miaaao/miao/blob/master/Assignment3.md)
+
 
